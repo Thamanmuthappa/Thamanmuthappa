@@ -28,15 +28,11 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thamanmuthappa&layout=compact&theme=blue-green&hide_border=true" max-width="100%" width="450px">
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/thaman-muthappa-m-n-540982204/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jugal-bhatt14" height="30" width="40" /></a>
-<a href="https://instagram.com/t_man.__" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_jugalbhatt" height="30" width="40" /></a>
-</p>
+## Feel free to connect
 
-
-
-
+[![Instagram](https://img.shields.io/badge/Instagram-follow-purple.svg?logo=instagram&logoColor=white)](https://www.instagram.com/t_man.__/)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-follow-informational?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thaman-muthappa-m-n-540982204//)
+[![Mail](https://img.shields.io/badge/Mail-critical?logo=gmail&logoColor=white)](mailto:thamanmuthappa@gmail.com)
 <!--
 **Thamanmuthappa/Thamanmuthappa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
