@@ -28,7 +28,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thamanmuthappa&layout=compact&theme=blue-green&hide_border=true" max-width="100%" width="450px">
 </p>
 
-# Connect with me
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/thaman-muthappa-m-n-540982204/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jugal-bhatt14" height="30" width="40" /></a>
