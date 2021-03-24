@@ -5,14 +5,13 @@
 </div>
 
 <h1 align="center">Heyy 👋, I'm Thaman Muthappa M N</h1>
-<h3 align="center">An ML enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Thamanmuthappa&label=Profile%20views&color=0e75b6&style=flat" alt="Thamanmuthappa" /> </p>
 <!-- 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Thamanmuthappa" alt="Thamanmuthappa" /></a> </p>
 -->
-# My Tech Stack
 
+# My Tech Stack
  <img src="https://img.shields.io/badge/-Python-yellow" alt="Python"> <img src="https://img.shields.io/badge/-Git-blue" alt="Git"> <img src="https://img.shields.io/badge/-GitHub-green" alt="GitHub">
 
 # Adding above soon 
@@ -29,7 +28,12 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thamanmuthappa&layout=compact&theme=blue-green&hide_border=true" max-width="100%" width="450px">
 </p>
 
-
+# Connect with me
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/thaman-muthappa-m-n-540982204/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jugal-bhatt14" height="30" width="40" /></a>
+<a href="https://instagram.com/t_man.__" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_jugalbhatt" height="30" width="40" /></a>
+</p>
 
 
 
