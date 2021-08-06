@@ -19,7 +19,7 @@
 
 ## My Tech Stack
  <img src="https://img.shields.io/badge/-Unity-green" alt="Unity"> <img src="https://img.shields.io/badge/-Python-yellow" alt="Python"> <img src="https://img.shields.io/badge/-Git-blue" alt="Git"> <img src="https://img.shields.io/badge/-GitHub-green" alt="GitHub"> <img src="https://img.shields.io/badge/-C++-purple" alt="C++"> <img src="https://img.shields.io/badge/-HTML-red" alt="HTML"> <img src="https://img.shields.io/badge/-CSS-purple" alt="CSS"> <img src="https://img.shields.io/badge/-JavaScript-yellow" alt="JavaScript">
-
+<hr>
 
 
 <!--
@@ -34,9 +34,14 @@
 
 ## GitHub Stats
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Thamanmuthappa&&show_icons=true&theme=blue-green&hide_border=true" max-width="100%" width="450px">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thamanmuthappa&theme=blue-green&hide_border=true" max-width="100%" width="450px">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thamanmuthappa&layout=compact&theme=blue-green&hide_border=true" max-width="100%" width="450px">
+	<img src="https://github-readme-stats.vercel.app/api?username=Thamanmuthappa&&show_icons=true&theme=blue-green&hide_border=true" max-width="100%" width="450px">
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=Thamanmuthappa&theme=blue-green&hide_border=true" max-width="100%" width="450px">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thamanmuthappa&layout=compact&theme=blue-green&hide_border=true" max-width="100%" width="450px">
+</p>
+
+<p align="center">
+	<h3 align="center">Just a snake eating up my contributions</h3>
+	<img src="https://github.com/Thamanmuthappa/Thamanmuthappa/blob/output/github-contribution-grid-snake.gif">
 </p>
 
 <br>
