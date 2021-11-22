@@ -8,10 +8,12 @@
 <h4 align="center">I'm an Amateur Game Developer and a Machine Learning enthusiast.</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Thamanmuthappa&label=Profile%20views&color=0e75b6&style=flat" alt="Thamanmuthappa" /> </p>
 
+
 - 🔭 I’m currently working on [Unity]()
 - 🌱 I’m currently learning [Unity](), [OpenCV]() and [React]()
 - 👯 I’m looking to collaborate on any [Game Dev]() or [CV project]()
 - 📫 How to reach me: [thamanmuthappa@gmail.com](mailto:thamanmuthappa@gmail.com)
+
 <!-- 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Thamanmuthappa" alt="Thamanmuthappa" /></a> </p>
 -->
@@ -54,6 +56,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-follow-purple.svg?logo=instagram&logoColor=white)](https://www.instagram.com/t_man.__/)
 [![LinkedIn](https://img.shields.io/badge/Linkedin-follow-informational?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thaman-muthappa-m-n-540982204//)
 [![Mail](https://img.shields.io/badge/Mail-critical?logo=gmail&logoColor=white)](mailto:thamanmuthappa@gmail.com)
+![](https://hit.yhype.me/github/profile?user_id=76126020)
 <!--
 **Thamanmuthappa/Thamanmuthappa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
