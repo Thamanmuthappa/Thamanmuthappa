@@ -5,7 +5,7 @@
 </div>
 
 <h1 align="center">Heyy 👋, I'm Thaman Muthappa M N</h1>
-<h4 align="center">I'm an Amateur Game Developer and a Machine Learning enthusiast.</h4>
+<h4 align="center">I'm an XR Developer and a Machine Learning enthusiast.</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Thamanmuthappa&label=Profile%20views&color=0e75b6&style=flat" alt="Thamanmuthappa" /> </p>
 
 
