@@ -43,6 +43,8 @@
 ## My Blogs
 - [AR Fundamentals: Plane Detection](https://bit.ly/3C3jD1p)
 
+<br>
+
 ## My Webinars
 - [3D Modeling and Filter creation using Blender and SparkAR](https://bit.ly/CC3DModelling)
 
