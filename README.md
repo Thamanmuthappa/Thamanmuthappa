@@ -20,17 +20,31 @@
 <br>
 
 ## My Tech Stack
- <img src="https://img.shields.io/badge/-Unity-green" alt="Unity"> <img src="https://img.shields.io/badge/-Python-yellow" alt="Python"> <img src="https://img.shields.io/badge/-Git-blue" alt="Git"> <img src="https://img.shields.io/badge/-GitHub-green" alt="GitHub"> <img src="https://img.shields.io/badge/-C++-purple" alt="C++"> <img src="https://img.shields.io/badge/-HTML-red" alt="HTML"> <img src="https://img.shields.io/badge/-CSS-purple" alt="CSS"> <img src="https://img.shields.io/badge/-JavaScript-yellow" alt="JavaScript">
+[![C#](https://img.shields.io/badge/-Csharp-000?&logo=Csharp)](https://github.com/Thamanmuthappa?tab=repositories&q=&type=&language=shaderlab)
+[![Unity](https://img.shields.io/badge/-Unity-000?&logo=Unity)](https://github.com/Thamanmuthappa?tab=repositories&q=&type=&language=shaderlab)
+[![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/Thamanmuthappa?tab=repositories&q=&type=&language=python)
+[![Open CV](https://img.shields.io/badge/-OpenCV-000?&logo=opencv&logoColor=00599C)](https://github.com/Thamanmuthappa?tab=repositories&q=&type=&language=python)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/Thamanmuthappa?tab=repositories&q=&type=&language=javascript)
+[![ReactJS](https://img.shields.io/badge/-React-000?&logo=react)](https://github.com/Thamanmuthappa?tab=repositories&q=&type=&language=javascript)
+[![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5)](https://github.com/Thamanmuthappa?tab=repositories&q=&type=&language=html)
+[![Blender](https://img.shields.io/badge/-Blender-000?&logo=blender)]()
+[![Spark AR](https://img.shields.io/badge/-SparkAR-000?&logo=sparkar)]()
+[![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)](https://github.com/Thamanmuthappa?tab=repositories&q=&type=&language=css)
+[![Git](https://img.shields.io/badge/-Git-000?&logo=git)]()
+[![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github)]()
+[![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=firebase)]()
+[![Figma](https://img.shields.io/badge/-Figma-000?&logo=figma)]()
+[![C](https://img.shields.io/badge/-C-000?&logo=C)](https://github.com/Thamanmuthappa?tab=repositories&q=&type=&language=c)
+[![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)](https://github.com/Thamanmuthappa?tab=repositories&q=&type=&language=c++)
 
 
-
-<!--
-<img src="https://img.shields.io/badge/-MaterializeCSS-pink" alt="MaterializeCSS"> <img src="https://img.shields.io/badge/-React-blue" alt="React"> <img src="https://img.shields.io/badge/-Node-green" alt="Node"> <img src="https://img.shields.io/badge/-ExpressJS-purple" alt="ExpressJS"> <img src="https://img.shields.io/badge/-MongoDB-green" alt="MongoDB"> <img src="https://img.shields.io/badge/-Heroku-purple" alt="Heroku"> <img src="https://img.shields.io/badge/-Bootstrap-red" alt="Bootstrap"> <img src="https://img.shields.io/badge/-JQuery-yellow" alt="JQuery"> 
--->
 <br>
 
 ## My Blogs
 - [AR Fundamentals: Plane Detection](https://bit.ly/3C3jD1p)
+
+## My Webinars
+- [3D Modeling and Filter creation using Blender and SparkAR](https://bit.ly/CC3DModelling)
 
 <br>
 
