@@ -52,7 +52,7 @@
 
 ## GitHub Stats
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=Thamanmuthappa&&show_icons=true&theme=blue-green&hide_border=true" max-width="100%" width="450px">
+
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=Thamanmuthappa&theme=blue-green&hide_border=true" max-width="100%" width="450px">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thamanmuthappa&layout=compact&theme=blue-green&hide_border=true" max-width="100%" width="450px">
 </p>
