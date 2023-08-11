@@ -57,12 +57,7 @@
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thamanmuthappa&layout=compact&theme=blue-green&hide_border=true" max-width="100%" width="450px">
 </p>
 
-<p align="center">
-	<h3 align="center">Just a snake eating up my contributions</h3>
-	<img src="https://github.com/Thamanmuthappa/Thamanmuthappa/blob/output/github-contribution-grid-snake.gif">
-</p>
 
-<br>
 
 ## Here's a Joke for you:
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
