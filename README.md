@@ -14,10 +14,6 @@
 - 👯 I’m looking to collaborate on any [XR]() or [Fullstack project]()
 - 📫 How to reach me: [thamanmuthappa@gmail.com](mailto:thamanmuthappa@gmail.com)
 
-<!-- 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Thamanmuthappa" alt="Thamanmuthappa" /></a> </p>
--->
-<br>
 
 ## My Tech Stack
 [![ReactJS](https://img.shields.io/badge/-React-000?&logo=react)](https://github.com/Thamanmuthappa?tab=repositories&q=&type=&language=javascript)
@@ -64,10 +60,8 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thamanmuthappa&layout=compact&theme=blue-green" 
     alt="Thaman's Top Languages" 
     style="max-width: 100%; height: auto; width: 340px;" 
-  />
+  /><img  src="https://github-profile-trophy.vercel.app/?username=Thamanmuthappa&theme=algolia&rank=-C,-B,-?&column=4&margin-h=15&margin-w=15" alt="Thamanmuthappa" width= "600px" />
 </div>
-
-
 
 ## Here's a Joke for you:
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
