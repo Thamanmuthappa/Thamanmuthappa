@@ -8,7 +8,7 @@
 <h4 align="center">I'm an XR Developer and a Frontend Dev.</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Thamanmuthappa&label=Profile%20views&color=0e75b6&style=flat" alt="Thamanmuthappa" /> </p>
 
--  SDE @Infra.Market
+-  SDE [@Vectorshift](http://github.com/vectorshift)
 - 🔭 I’m currently working on [ReactJS]()
 - 🌱 I’m currently learning [Unity](), [NodeJS]() and [ReactJS]()
 - 👯 I’m looking to collaborate on any [XR]() or [Fullstack project]()
@@ -60,7 +60,7 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thamanmuthappa&layout=compact&theme=blue-green" 
     alt="Thaman's Top Languages" 
     style="max-width: 100%; height: auto; width: 340px;" 
-  /><img  src="https://github-profile-trophy.vercel.app/?username=Thamanmuthappa&theme=algolia&rank=-C,-B,-?&column=4&margin-h=15&margin-w=15" alt="Thamanmuthappa" width= "600px" />
+  />
 </div>
 
 ## Here's a Joke for you:
